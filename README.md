@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💻 [Your Name] - Software Developer Portfolio
+# 💻 John Carlo Advincula - Software Developer Portfolio
 
 Hi there! 👋 Welcome to my GitHub portfolio.  
 I’m a passionate developer specializing in **mobile and web development**, dedicated to crafting efficient and scalable software solutions.  
