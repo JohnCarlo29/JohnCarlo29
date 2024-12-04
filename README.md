@@ -66,10 +66,10 @@ Feel free to explore my projects and connect with me. 🚀
 ---
 
 ## 🤝 Connect with Me
-- 🌐 [Portfolio Website](#)  
-- 💼 [LinkedIn](#)  
-- 🐦 [Twitter](#)  
-- 📧 [Email](mailto:your-email@example.com)
+- 🌐 [Curriculum Vitae](https://drive.google.com/file/d/1Xp9QVT6TZyTOC_eozxs_I41pQ5whfxUb/view?usp=sharing)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/john-carlo-advincula-067276165/)  
+- 🐦 [Facebook](https://www.facebook.com/jcadvincula29/)  
+- 📧 [Email](mailto:jc29advincula@gmail.com)
 
 Feel free to reach out for collaboration or to discuss ideas! 😊
 
