@@ -60,6 +60,22 @@ Feel free to explore my projects and connect with me. 🚀
 
 ---
 
+### [Skype Killer](#)
+**Description**: [An app use to held the online teaching of teacher and student]  
+**Tech Stack**: [Laravel, MySQL, VueJS, ElementUI, Agora, WebSocket]  
+
+**Key Features**: 
+- Chat And event stream System   
+- Real time action 
+
+**Screenshots**:  
+| Image 1 | Image 2 |
+| ------------- | ------------- |
+|<img width="500" alt="image" src="https://github.com/user-attachments/assets/fae65c50-d0f0-4beb-9cf0-992a7c38a750"> | <img width="500" alt="image" src="https://github.com/user-attachments/assets/16f64786-deeb-49e2-aebd-bb702bc2204d"> |
+
+
+---
+
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
